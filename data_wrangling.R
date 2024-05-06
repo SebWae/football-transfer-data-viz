@@ -1,77 +1,47 @@
 library(tidyverse)
-# Data from: https://www.kaggle.com/datasets/davidcariboo/player-scores?select=player_valuations.csv
-# https://github.com/ewenme/transfers/tree/master
-
+options(scipen=999)
 
 path <- "/Users/krusand/Documents/GitHub/football-data-viz/"
 
-player_valuations <- read.csv(paste0(path,"data/kaggle/player_valuations.csv"))
-appearances <- read.csv(paste0(path,"data/kaggle/appearances.csv"))
-club_games <- read.csv(paste0(path,"data/kaggle/club_games.csv"))
-clubs <- read.csv(paste0(path,"data/kaggle/clubs.csv"))
-competitions <- read.csv(paste0(path,"data/kaggle/competitions.csv"))
-game_events <- read.csv(paste0(path,"data/kaggle/game_events.csv"))
-game_lineups <- read.csv(paste0(path,"data/kaggle/game_lineups.csv"))
-players <- read.csv(paste0(path,"data/kaggle/players.csv"))
-games <- read.csv(paste0(path,"data/kaggle/games.csv"))
+leagues <- c("Premier League", "Serie A", "LaLiga", "Bundesliga", "Ligue 1")
+
+transfers <- read.csv(paste0(path, "data/all_transfers.csv"))
+
+transfers %>% View()
+
+transfer_paths <- read.csv(paste0(path,"data/transfer_paths.csv")) %>% 
+  mutate(Season = paste0(substr(Year, 3,4),"/", as.numeric(substr(Year, 3,4))+1))
+  
+
+league_transfers <- transfers %>% 
+  filter(From_League != To_League) %>% 
+  filter(grepl("^Premier League|^Bundesliga|^Ligue 1|^LaLiga|^Serie A", From_League)) %>% 
+  filter(grepl("^Premier League|^Bundesliga|^Ligue 1|^LaLiga|^Serie A", To_League)) %>% 
+  group_by(Season, From_League, To_League) %>% 
+  summarise(Fee_total = sum(Fee))
 
 
 
-player_valuations %>% 
-  left_join(players, by = 'player_id') %>% 
-  group_by(date) %>% 
-  summarise(gns = mean(market_value_in_eur.y)) %>% 
-  ungroup() %>% 
-  arrange(date)
+transfer_paths_with_fee <- transfer_paths %>% 
+  left_join(league_transfers, by=c("Season", "From_League", "To_League")) %>% 
+  replace(is.na(.), 0) %>%
+  mutate(From_To = paste0(From_League, To_League)) %>% 
+  mutate(country = case_when(
+    grepl("^Premier League", From_League) ~ "United Kingdom",
+    grepl("^Serie A", From_League) ~ "Italy",
+    grepl("^Bundesliga", From_League) ~ "Germany",
+    grepl("^Ligue 1", From_League) ~ "France",
+    grepl("^LaLiga", From_League) ~ "Spain"
+    
+  ))
 
+transfer_paths_with_fee
 
-
-
-bundesliga <- read.csv(paste0(path,"data/kaggle/transfers/bundesliga.csv"))
-la_liga <- read.csv(paste0(path,"data/kaggle/transfers/laliga.csv"))
-premier_league <- read.csv(paste0(path,"data/kaggle/transfers/premier-league.csv"))
-ligue_1 <- read.csv(paste0(path,"data/kaggle/transfers/ligue1.csv"))
-serie_a <- read.csv(paste0(path,"data/kaggle/transfers/serie-a.csv"))
-
-
-transfer_data <- rbind(bundesliga, la_liga, premier_league, ligue_1, serie_a) %>% 
-  filter(!is.na(fee_cleaned)) %>% 
-  group_by(league_name, year,transfer_movement) %>% 
-  summarise(fee_total = sum(fee_cleaned)) %>% 
-  ungroup()
-
-
-
-transfer_data %>% 
-  pivot_wider(names_from = 'transfer_movement', values_from = 'fee_total') %>% 
-  mutate(net_fee = )
-
-
-ggplot(data = transfer_data, aes(x=year, y = fee_total, col=transfer_movement)) + 
-  geom_point()
+transfer_paths_with_fee %>% 
+  write.csv(paste0(path, "data/transfer_paths_with_fee.csv"), row.names = F)
 
 
 
 
-rbind(
-games %>% 
-  filter(competition_type == 'domestic_league') %>% 
-  select(season, club_id = home_club_id, competition_id)  
-,
-games %>% 
-  filter(competition_type == 'domestic_league') %>% 
-  select(season, club_id = away_club_id, competition_id) 
-) %>% 
-  distinct(season, club_id, competition_id)
-
-
-
-
-clubs %>% View()
-
-
-
-
-
-
+  
 
