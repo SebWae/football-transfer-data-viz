@@ -1,0 +1,491 @@
+Season,League,club_code,club_name,Expenditure,Income
+18/19,GB1,manchester-city,Manchester City,78590000.0,57600000.0
+18/19,GB1,manchester-united,Manchester United,82700000.0,30550000.0
+18/19,GB1,tottenham-hotspur,Tottenham Hotspur,0.0,5350000.0
+18/19,GB1,fc-liverpool,Liverpool FC,182200000.0,41320000.0
+18/19,GB1,fc-chelsea,Chelsea FC,208800000.0,83250000.0
+18/19,GB1,fc-arsenal,Arsenal FC,80150000.0,9100000.0
+18/19,GB1,fc-burnley,Burnley FC,33000000.0,8000000.0
+18/19,GB1,fc-everton,Everton FC,99800000.0,28650000.0
+18/19,GB1,leicester-city,Leicester City,114600000.0,95800000.0
+18/19,GB1,newcastle-united,Newcastle United,59750000.0,51050000.0
+18/19,GB1,crystal-palace,Crystal Palace,11850000.0,350000000.0
+18/19,GB1,afc-bournemouth,AFC Bournemouth,91600000.0,20200000.0
+18/19,GB1,west-ham-united,West Ham United,100900000.0,13770000.0
+18/19,GB1,fc-watford,Watford FC,30100000.0,51840000.0
+18/19,GB1,brighton-amp-hove-albion,Brighton & Hove Albion,90620000.0,13620000.0
+18/19,GB1,huddersfield-town,Huddersfield Town,50700000.0,12330000.0
+18/19,GB1,fc-southampton,Southampton FC,62250000.0,26100000.0
+18/19,GB1,wolverhampton-wanderers,Wolverhampton Wanderers,112750000.0,23300000.0
+18/19,GB1,cardiff-city,Cardiff City,51200000.0,0.0
+18/19,GB1,fc-fulham,Fulham FC,116500000.0,5350000.0
+19/20,GB1,manchester-city,Manchester City,169820000.0,71000000.0
+19/20,GB1,fc-liverpool,Liverpool FC,10400000.0,48000000.0
+19/20,GB1,fc-chelsea,Chelsea FC,45000000.0,157270000.0
+19/20,GB1,tottenham-hotspur,Tottenham Hotspur,150500000.0,64500000.0
+19/20,GB1,fc-arsenal,Arsenal FC,160800000.0,53650000.0
+19/20,GB1,manchester-united,Manchester United,236800000.0,81180000.0
+19/20,GB1,wolverhampton-wanderers,Wolverhampton Wanderers,116700000.0,24100000.0
+19/20,GB1,fc-everton,Everton FC,121000000.0,87800000.0
+19/20,GB1,leicester-city,Leicester City,104300000.0,88500000.0
+19/20,GB1,west-ham-united,West Ham United,119800000.0,55730000.0
+19/20,GB1,fc-watford,Watford FC,56000000.0,25400000.0
+19/20,GB1,crystal-palace,Crystal Palace,7600000.0,55380000.0
+19/20,GB1,newcastle-united,Newcastle United,72400000.0,35640000.0
+19/20,GB1,afc-bournemouth,AFC Bournemouth,54910000.0,34630000.0
+19/20,GB1,fc-burnley,Burnley FC,23850000.0,13550000.0
+19/20,GB1,fc-southampton,Southampton FC,61500000.0,27300000.0
+19/20,GB1,brighton-amp-hove-albion,Brighton & Hove Albion,61740000.0,8500000.0
+19/20,GB1,norwich-city,Norwich City,8820000.0,2200000.0
+19/20,GB1,sheffield-united,Sheffield United,72500000.0,350000000.0
+19/20,GB1,aston-villa,Aston Villa,159500000.0,3000000.0
+20/21,GB1,fc-arsenal,Arsenal FC,86000000.0,19150000.0
+20/21,GB1,aston-villa,Aston Villa,101350000.0,2770000.0
+20/21,GB1,brighton-amp-hove-albion,Brighton & Hove Albion,50100000.0,20600000.0
+20/21,GB1,fc-burnley,Burnley FC,1100000.0,2300000.0
+20/21,GB1,fc-chelsea,Chelsea FC,247200000.0,57150000.0
+20/21,GB1,crystal-palace,Crystal Palace,22400000.0,20000000.0
+20/21,GB1,fc-everton,Everton FC,74370000.0,4430000.0
+20/21,GB1,fc-fulham,Fulham FC,37250000.0,0.0
+20/21,GB1,leeds-united,Leeds United,127800000.0,0.0
+20/21,GB1,leicester-city,Leicester City,59400000.0,53770000.0
+20/21,GB1,fc-liverpool,Liverpool FC,84050000.0,17200000.0
+20/21,GB1,manchester-city,Manchester City,173400000.0,64000000.0
+20/21,GB1,manchester-united,Manchester United,83800000.0,19500000.0
+20/21,GB1,newcastle-united,Newcastle United,38750000.0,275000000.0
+20/21,GB1,sheffield-united,Sheffield United,62700000.0,0.0
+20/21,GB1,fc-southampton,Southampton FC,37300000.0,26300000.0
+20/21,GB1,tottenham-hotspur,Tottenham Hotspur,110500000.0,13300000.0
+20/21,GB1,west-bromwich-albion,West Bromwich Albion,42140000.0,8100000.0
+20/21,GB1,west-ham-united,West Ham United,54700000.0,45410000.0
+20/21,GB1,wolverhampton-wanderers,Wolverhampton Wanderers,87590000.0,79200000.0
+21/22,GB1,fc-arsenal,Arsenal FC,167400000.0,31400000.0
+21/22,GB1,aston-villa,Aston Villa,129800000.0,127000000.0
+21/22,GB1,fc-brentford,Brentford FC,38200000.0,1000000.0
+21/22,GB1,brighton-amp-hove-albion,Brighton & Hove Albion,75000000.0,78800000.0
+21/22,GB1,fc-burnley,Burnley FC,49400000.0,40500000.0
+21/22,GB1,fc-chelsea,Chelsea FC,118000000.0,154690000.0
+21/22,GB1,crystal-palace,Crystal Palace,85620000.0,0.0
+21/22,GB1,fc-everton,Everton FC,39500000.0,46000000.0
+21/22,GB1,leeds-united,Leeds United,59300000.0,0.0
+21/22,GB1,leicester-city,Leicester City,67600000.0,4000000.0
+21/22,GB1,fc-liverpool,Liverpool FC,87000000.0,29550000.0
+21/22,GB1,manchester-city,Manchester City,138900000.0,93800000.0
+21/22,GB1,manchester-united,Manchester United,142000000.0,31100000.0
+21/22,GB1,newcastle-united,Newcastle United,130500000.0,0.0
+21/22,GB1,norwich-city,Norwich City,63550000.0,38400000.0
+21/22,GB1,fc-southampton,Southampton FC,63400000.0,60350000.0
+21/22,GB1,tottenham-hotspur,Tottenham Hotspur,95900000.0,34620000.0
+21/22,GB1,fc-watford,Watford FC,43500000.0,12850000.0
+21/22,GB1,west-ham-united,West Ham United,74500000.0,4240000.0
+21/22,GB1,wolverhampton-wanderers,Wolverhampton Wanderers,37600000.0,31800000.0
+22/23,GB1,fc-arsenal,Arsenal FC,186400000.0,23800000.0
+22/23,GB1,aston-villa,Aston Villa,100140000.0,54000000.0
+22/23,GB1,afc-bournemouth,AFC Bournemouth,83100000.0,0.0
+22/23,GB1,fc-brentford,Brentford FC,49250000.0,3600000.0
+22/23,GB1,brighton-amp-hove-albion,Brighton & Hove Albion,55700000.0,138400000.0
+22/23,GB1,fc-chelsea,Chelsea FC,630350000.0,67860000.0
+22/23,GB1,crystal-palace,Crystal Palace,46600000.0,5460000.0
+22/23,GB1,fc-everton,Everton FC,78200000.0,103600000.0
+22/23,GB1,fc-fulham,Fulham FC,72200000.0,21900000.0
+22/23,GB1,leeds-united,Leeds United,157390000.0,114500000.0
+22/23,GB1,leicester-city,Leicester City,49000000.0,81400000.0
+22/23,GB1,fc-liverpool,Liverpool FC,142300000.0,80700000.0
+22/23,GB1,manchester-city,Manchester City,155000000.0,162170000.0
+22/23,GB1,manchester-united,Manchester United,243280000.0,23650000.0
+22/23,GB1,newcastle-united,Newcastle United,185350000.0,14060000.0
+22/23,GB1,nottingham-forest,Nottingham Forest,194550000.0,5000000.0
+22/23,GB1,fc-southampton,Southampton FC,152110000.0,5500000.0
+22/23,GB1,tottenham-hotspur,Tottenham Hotspur,179900000.0,38750000.0
+22/23,GB1,west-ham-united,West Ham United,186600000.0,21550000.0
+22/23,GB1,wolverhampton-wanderers,Wolverhampton Wanderers,177110000.0,62870000.0
+18/19,ES1,athletic-bilbao,Athletic Bilbao,32900000.0,80000000.0
+18/19,ES1,atletico-madrid,Atlético de Madrid,168000000.0,57900000.0
+18/19,ES1,cd-leganes,CD Leganés,18900000.0,24600000.0
+18/19,ES1,deportivo-alaves,Deportivo Alavés,10000000.0,9000000.0
+18/19,ES1,fc-barcelona,FC Barcelona,141100000.0,146050000.0
+18/19,ES1,fc-getafe,Getafe CF,27250000.0,5000000.0
+18/19,ES1,fc-girona,Girona FC,10200000.0,3300000.0
+18/19,ES1,ud-levante,Levante UD,26700000.0,41500000.0
+18/19,ES1,celta-vigo,Celta de Vigo,30000000.0,35700000.0
+18/19,ES1,espanyol-barcelona,RCD Espanyol Barcelona,22100000.0,30800000.0
+18/19,ES1,real-betis-sevilla,Real Betis Balompié,47000000.0,49300000.0
+18/19,ES1,real-madrid,Real Madrid,164750000.0,136100000.0
+18/19,ES1,real-sociedad-san-sebastian,Real Sociedad,12000000.0,32800000.0
+18/19,ES1,sd-eibar,SD Eibar,8000000.0,7750000.0
+18/19,ES1,fc-sevilla,Sevilla FC,81050000.0,93800000.0
+18/19,ES1,fc-valencia,Valencia CF,129200000.0,68800000.0
+18/19,ES1,fc-villarreal,Villarreal CF,92900000.0,54800000.0
+18/19,ES1,sd-huesca,SD Huesca,9000000.0,400000000.0
+18/19,ES1,rayo-vallecano,Rayo Vallecano,12300000.0,13000000.0
+18/19,ES1,real-valladolid,Real Valladolid CF,10100000.0,0.0
+19/20,ES1,fc-barcelona,FC Barcelona,303000000.0,154400000.0
+19/20,ES1,atletico-madrid,Atlético de Madrid,247350000.0,316300000.0
+19/20,ES1,real-madrid,Real Madrid,355500000.0,136800000.0
+19/20,ES1,fc-getafe,Getafe CF,21500000.0,11250000.0
+19/20,ES1,fc-valencia,Valencia CF,75000000.0,56300000.0
+19/20,ES1,fc-sevilla,Sevilla FC,188730000.0,131400000.0
+19/20,ES1,athletic-bilbao,Athletic Bilbao,0.0,0.0
+19/20,ES1,real-sociedad-san-sebastian,Real Sociedad,31750000.0,9500000.0
+19/20,ES1,espanyol-barcelona,RCD Espanyol Barcelona,61500000.0,61000000.0
+19/20,ES1,deportivo-alaves,Deportivo Alavés,11770000.0,22500000.0
+19/20,ES1,sd-eibar,SD Eibar,17300000.0,27000000.0
+19/20,ES1,cd-leganes,CD Leganés,16399999.999999998,40820000.0
+19/20,ES1,real-betis-sevilla,Real Betis Balompié,96450000.0,72000000.0
+19/20,ES1,fc-villarreal,Villarreal CF,43800000.0,69300000.0
+19/20,ES1,ud-levante,Levante UD,14600000.0,14900000.0
+19/20,ES1,real-valladolid,Real Valladolid CF,1400000.0,8000000.0
+19/20,ES1,celta-vigo,Celta de Vigo,24600000.0,42650000.0
+19/20,ES1,ca-osasuna,CA Osasuna,14450000.0,300000000.0
+19/20,ES1,fc-granada,Granada CF,11240000.0,300000000.0
+19/20,ES1,rcd-mallorca,RCD Mallorca,7500000.0,0.0
+20/21,ES1,real-madrid,Real Madrid,0.0,108200000.0
+20/21,ES1,fc-barcelona,FC Barcelona,111940000.0,154400000.0
+20/21,ES1,atletico-madrid,Atlético de Madrid,92000000.0,83300000.0
+20/21,ES1,fc-sevilla,Sevilla FC,74350000.0,19680000.0
+20/21,ES1,fc-villarreal,Villarreal CF,36500000.0,26650000.0
+20/21,ES1,fc-getafe,Getafe CF,22050000.0,9750000.0
+20/21,ES1,real-sociedad-san-sebastian,Real Sociedad,10000000.0,28250000.0
+20/21,ES1,fc-valencia,Valencia CF,50000000.0,88850000.0
+20/21,ES1,athletic-bilbao,Athletic Bilbao,12000000.0,0.0
+20/21,ES1,fc-granada,Granada CF,20500000.0,0.0
+20/21,ES1,ca-osasuna,CA Osasuna,9150000.0,3450000.0
+20/21,ES1,ud-levante,Levante UD,8000000.0,5000000.0
+20/21,ES1,real-betis-sevilla,Real Betis Balompié,0.0,43700000.0
+20/21,ES1,real-valladolid,Real Valladolid CF,9850000.0,12100000.0
+20/21,ES1,fc-cadiz,Cádiz CF,10100000.0,0.0
+20/21,ES1,sd-eibar,SD Eibar,2000000.0,150000000.0
+20/21,ES1,deportivo-alaves,Deportivo Alavés,0.0,4880000.0
+20/21,ES1,sd-huesca,SD Huesca,4650000.0,0.0
+20/21,ES1,celta-vigo,Celta de Vigo,3000000.0,2500000.0
+20/21,ES1,fc-elche,Elche CF,6100000.0,7300000.0
+21/22,ES1,atletico-madrid,Atlético de Madrid,85700000.0,22750000.0
+21/22,ES1,fc-barcelona,FC Barcelona,69500000.0,70760000.0
+21/22,ES1,real-madrid,Real Madrid,31000000.0,78000000.0
+21/22,ES1,fc-sevilla,Sevilla FC,41500000.0,28500000.0
+21/22,ES1,real-sociedad-san-sebastian,Real Sociedad,2500000.0,0.0
+21/22,ES1,fc-villarreal,Villarreal CF,54500000.0,10340000.0
+21/22,ES1,real-betis-sevilla,Real Betis Balompié,3250000.0,14000000.0
+21/22,ES1,athletic-bilbao,Athletic Bilbao,0.0,0.0
+21/22,ES1,fc-granada,Granada CF,17450000.0,3000000.0
+21/22,ES1,celta-vigo,Celta de Vigo,10020000.0,1800000.0
+21/22,ES1,fc-cadiz,Cádiz CF,6100000.0,0.0
+21/22,ES1,espanyol-barcelona,RCD Espanyol Barcelona,6000000.0,0.0
+21/22,ES1,ca-osasuna,CA Osasuna,8700000.0,0.0
+21/22,ES1,ud-levante,Levante UD,875000000.0,0.0
+21/22,ES1,fc-valencia,Valencia CF,13350000.0,2700000.0
+21/22,ES1,fc-getafe,Getafe CF,15160000.0,21000000.0
+21/22,ES1,deportivo-alaves,Deportivo Alavés,1600000.0,3500000.0
+21/22,ES1,fc-elche,Elche CF,8199999.999999999,200000000.0
+21/22,ES1,rcd-mallorca,RCD Mallorca,10000000.0,9000000.0
+21/22,ES1,rayo-vallecano,Rayo Vallecano,4300000.0,2200000.0
+22/23,ES1,real-madrid,Real Madrid,80000000.0,92150000.0
+22/23,ES1,fc-barcelona,FC Barcelona,158000000.0,39500000.0
+22/23,ES1,fc-sevilla,Sevilla FC,30400000.0,91500000.0
+22/23,ES1,atletico-madrid,Atlético de Madrid,29500000.0,28250000.0
+22/23,ES1,real-sociedad-san-sebastian,Real Sociedad,55000000.0,80500000.0
+22/23,ES1,real-betis-sevilla,Real Betis Balompié,27400000.0,14750000.0
+22/23,ES1,fc-villarreal,Villarreal CF,6480000.0,31600000.0
+22/23,ES1,athletic-bilbao,Athletic Bilbao,0.0,0.0
+22/23,ES1,fc-valencia,Valencia CF,12500000.0,54600000.0
+22/23,ES1,ca-osasuna,CA Osasuna,2000000.0,250000000.0
+22/23,ES1,fc-elche,Elche CF,13160000.0,9400000.0
+22/23,ES1,celta-vigo,Celta de Vigo,22350000.0,17200000.0
+22/23,ES1,espanyol-barcelona,RCD Espanyol Barcelona,20600000.0,17800000.0
+22/23,ES1,rayo-vallecano,Rayo Vallecano,14300000.0,200000000.0
+22/23,ES1,fc-getafe,Getafe CF,15750000.0,20500000.0
+22/23,ES1,rcd-mallorca,RCD Mallorca,13420000.0,5300000.0
+22/23,ES1,fc-cadiz,Cádiz CF,11500000.0,1000000.0
+22/23,ES1,ud-almeria,UD Almería,37080000.0,22200000.0
+22/23,ES1,real-valladolid,Real Valladolid CF,12300000.0,1300000.0
+22/23,ES1,fc-girona,Girona FC,15000000.0,750000000.0
+18/19,L1,fc-bayern-munchen,Bayern Munich,14000000.0,84000000.0
+18/19,L1,fc-schalke-04,FC Schalke 04,62200000.0,46150000.0
+18/19,L1,tsg-1899-hoffenheim,TSG 1899 Hoffenheim,32000000.0,6120000.0
+18/19,L1,borussia-dortmund,Borussia Dortmund,90500000.0,114200000.0
+18/19,L1,bayer-04-leverkusen,Bayer 04 Leverkusen,31500000.0,45000000.0
+18/19,L1,rasenballsport-leipzig,RB Leipzig,65629999.99999999,72750000.0
+18/19,L1,vfb-stuttgart,VfB Stuttgart,45760000.0,13250000.0
+18/19,L1,eintracht-frankfurt,Eintracht Frankfurt,28950000.0,18900000.0
+18/19,L1,borussia-monchengladbach,Borussia Mönchengladbach,32550000.0,32950000.000000004
+18/19,L1,hertha-bsc,Hertha BSC,16000000.0,16900000.0
+18/19,L1,sv-werder-bremen,SV Werder Bremen,25800000.0,26850000.0
+18/19,L1,fc-augsburg,FC Augsburg,6650000.0,2850000.0
+18/19,L1,hannover-96,Hannover 96,18520000.0,13540000.0
+18/19,L1,1-fsv-mainz-05,1.FSV Mainz 05,30000000.0,56100000.0
+18/19,L1,sc-freiburg,SC Freiburg,18400000.0,22680000.0
+18/19,L1,vfl-wolfsburg,VfL Wolfsburg,36000000.0,800000000.0
+18/19,L1,fortuna-dusseldorf,Fortuna Düsseldorf,7500000.0,600000000.0
+18/19,L1,1-fc-nurnberg,1.FC Nuremberg,4850000.0,0.0
+19/20,L1,fc-bayern-munchen,Bayern Munich,139500000.0,54000000.0
+19/20,L1,borussia-dortmund,Borussia Dortmund,148500000.0,132250000.0
+19/20,L1,rasenballsport-leipzig,RB Leipzig,93000000.0,45250000.0
+19/20,L1,bayer-04-leverkusen,Bayer 04 Leverkusen,99700000.0,33500000.0
+19/20,L1,borussia-monchengladbach,Borussia Mönchengladbach,40500000.0,34100000.0
+19/20,L1,vfl-wolfsburg,VfL Wolfsburg,34800000.0,14300000.0
+19/20,L1,eintracht-frankfurt,Eintracht Frankfurt,82640000.0,114800000.0
+19/20,L1,sv-werder-bremen,SV Werder Bremen,13950000.0,0.0
+19/20,L1,tsg-1899-hoffenheim,TSG 1899 Hoffenheim,54850000.0,122400000.0
+19/20,L1,fortuna-dusseldorf,Fortuna Düsseldorf,11150000.0,11600000.0
+19/20,L1,hertha-bsc,Hertha BSC,110700000.0,23450000.0
+19/20,L1,1-fsv-mainz-05,1.FSV Mainz 05,30700000.0,27000000.0
+19/20,L1,sc-freiburg,SC Freiburg,17500000.0,8100000.0
+19/20,L1,fc-schalke-04,FC Schalke 04,29500000.0,19450000.0
+19/20,L1,fc-augsburg,FC Augsburg,33000000.0,20000000.0
+19/20,L1,1-fc-koln,1.FC Köln,20250000.0,6850000.0
+19/20,L1,sc-paderborn-07,SC Paderborn 07,750000000.0,5800000.0
+19/20,L1,1-fc-union-berlin,1.FC Union Berlin,10050000.0,1250000.0
+20/21,L1,fc-bayern-munchen,Bayern Munich,66000000.0,22250000.0
+20/21,L1,borussia-dortmund,Borussia Dortmund,55150000.0,5500000.0
+20/21,L1,rasenballsport-leipzig,RB Leipzig,72000000.0,77500000.0
+20/21,L1,borussia-monchengladbach,Borussia Mönchengladbach,13500000.0,0.0
+20/21,L1,bayer-04-leverkusen,Bayer 04 Leverkusen,46200000.0,91000000.0
+20/21,L1,tsg-1899-hoffenheim,TSG 1899 Hoffenheim,4000000.0,17750000.0
+20/21,L1,vfl-wolfsburg,VfL Wolfsburg,22000000.0,11100000.0
+20/21,L1,sc-freiburg,SC Freiburg,14350000.0,37950000.0
+20/21,L1,eintracht-frankfurt,Eintracht Frankfurt,10750000.0,17700000.0
+20/21,L1,hertha-bsc,Hertha BSC,31250000.0,10450000.0
+20/21,L1,1-fc-union-berlin,1.FC Union Berlin,1700000.0,6920000.0
+20/21,L1,fc-schalke-04,FC Schalke 04,2000000.0,8000000.0
+20/21,L1,1-fsv-mainz-05,1.FSV Mainz 05,2000000.0,13700000.0
+20/21,L1,1-fc-koln,1.FC Köln,18500000.0,15000000.0
+20/21,L1,fc-augsburg,FC Augsburg,10300000.0,10700000.0
+20/21,L1,sv-werder-bremen,SV Werder Bremen,11000000.0,11700000.0
+20/21,L1,arminia-bielefeld,Arminia Bielefeld,500000000.0,100000000.0
+20/21,L1,vfb-stuttgart,VfB Stuttgart,14950000.0,7500000.0
+21/22,L1,fc-bayern-munchen,Bayern Munich,57500000.0,2300000.0
+21/22,L1,rasenballsport-leipzig,RB Leipzig,125620000.0,113500000.0
+21/22,L1,borussia-dortmund,Borussia Dortmund,45000000.0,109500000.0
+21/22,L1,vfl-wolfsburg,VfL Wolfsburg,81180000.0,22700000.0
+21/22,L1,eintracht-frankfurt,Eintracht Frankfurt,13450000.0,28400000.0
+21/22,L1,bayer-04-leverkusen,Bayer 04 Leverkusen,55350000.0,43340000.0
+21/22,L1,1-fc-union-berlin,1.FC Union Berlin,20100000.0,19550000.0
+21/22,L1,borussia-monchengladbach,Borussia Mönchengladbach,17000000.0,11450000.0
+21/22,L1,vfb-stuttgart,VfB Stuttgart,17450000.0,40920000.0
+21/22,L1,sc-freiburg,SC Freiburg,9500000.0,14550000.0
+21/22,L1,tsg-1899-hoffenheim,TSG 1899 Hoffenheim,0.0,850000000.0
+21/22,L1,1-fsv-mainz-05,1.FSV Mainz 05,7900000.0,18050000.0
+21/22,L1,fc-augsburg,FC Augsburg,24060000.0,12800000.0
+21/22,L1,hertha-bsc,Hertha BSC,27400000.0,57500000.0
+21/22,L1,arminia-bielefeld,Arminia Bielefeld,9430000.0,500000000.0
+21/22,L1,1-fc-koln,1.FC Köln,550000000.0,23450000.0
+21/22,L1,vfl-bochum,VfL Bochum,0.0,350000000.0
+21/22,L1,spvgg-greuther-furth,SpVgg Greuther Fürth,1400000.0,4550000.0
+22/23,L1,fc-bayern-munchen,Bayern Munich,146500000.0,102900000.0
+22/23,L1,borussia-dortmund,Borussia Dortmund,104600000.0,82000000.0
+22/23,L1,bayer-04-leverkusen,Bayer 04 Leverkusen,15100000.0,9500000.0
+22/23,L1,rasenballsport-leipzig,RB Leipzig,59500000.0,75970000.0
+22/23,L1,1-fc-union-berlin,1.FC Union Berlin,24650000.0,30670000.0
+22/23,L1,sc-freiburg,SC Freiburg,15900000.0,21330000.0
+22/23,L1,1-fc-koln,1.FC Köln,7250000.0,13320000.0
+22/23,L1,1-fsv-mainz-05,1.FSV Mainz 05,23800000.0,24250000.0
+22/23,L1,tsg-1899-hoffenheim,TSG 1899 Hoffenheim,19800000.0,67050000.0
+22/23,L1,borussia-monchengladbach,Borussia Mönchengladbach,24000000.0,23000000.0
+22/23,L1,eintracht-frankfurt,Eintracht Frankfurt,27800000.0,20100000.0
+22/23,L1,vfl-wolfsburg,VfL Wolfsburg,36250000.0,22780000.0
+22/23,L1,vfl-bochum,VfL Bochum,1790000.0,16050000.0
+22/23,L1,fc-augsburg,FC Augsburg,11790000.0,6850000.0
+22/23,L1,vfb-stuttgart,VfB Stuttgart,14550000.0,52600000.0
+22/23,L1,hertha-bsc,Hertha BSC,8850000.0,24250000.0
+22/23,L1,fc-schalke-04,FC Schalke 04,8630000.0,21550000.0
+22/23,L1,sv-werder-bremen,SV Werder Bremen,4000000.0,2450000.0
+18/19,IT1,atalanta-bergamo,Atalanta BC,60800000.0,25060000.0
+18/19,IT1,fc-bologna,Bologna FC 1909,31220000.0,44990000.0
+18/19,IT1,cagliari-calcio,Cagliari Calcio,22500000.0,7850000.0
+18/19,IT1,chievo-verona,Chievo Verona,9470000.0,17620000.0
+18/19,IT1,fc-empoli,FC Empoli,17300000.0,22900000.0
+18/19,IT1,ac-florenz,ACF Fiorentina,60770000.0,43390000.0
+18/19,IT1,frosinone-calcio,Frosinone Calcio,9560000.0,800000000.0
+18/19,IT1,genua-cfc,Genoa CFC,58970000.0,86460000.0
+18/19,IT1,inter-mailand,Inter Milan,97600000.0,91170000.0
+18/19,IT1,juventus-turin,Juventus FC,261800000.0,112540000.0
+18/19,IT1,lazio-rom,SS Lazio,51280000.0,38600000.0
+18/19,IT1,ac-mailand,AC Milan,194640000.0,88100000.0
+18/19,IT1,ssc-neapel,SSC Napoli,70500000.0,100800000.0
+18/19,IT1,parma-calcio-1913,Parma Calcio 1913,23800000.0,596000000.0
+18/19,IT1,as-rom,AS Roma,166350000.0,150470000.0
+18/19,IT1,sampdoria-genua,UC Sampdoria,56700000.0,90120000.0
+18/19,IT1,us-sassuolo,US Sassuolo,53970000.0,50380000.0
+18/19,IT1,spal,SPAL,21900000.0,1850000.0
+18/19,IT1,fc-turin,Torino FC,53150000.0,17200000.0
+18/19,IT1,udinese-calcio,Udinese Calcio,52900000.0,13530000.0
+19/20,IT1,atalanta-bergamo,Atalanta BC,59060000.0,109100000.0
+19/20,IT1,fc-bologna,Bologna FC 1909,69540000.0,28680000.0
+19/20,IT1,brescia-calcio,Brescia Calcio,18650000.0,100000000.0
+19/20,IT1,cagliari-calcio,Cagliari Calcio,40100000.0,18860000.0
+19/20,IT1,ac-florenz,ACF Fiorentina,56500000.0,15320000.0
+19/20,IT1,genua-cfc,Genoa CFC,50370000.0,59350000.0
+19/20,IT1,hellas-verona,Hellas Verona,21190000.0,43670000.0
+19/20,IT1,inter-mailand,Inter Milan,192020000.0,66739999.99999999
+19/20,IT1,juventus-turin,Juventus FC,235300000.0,203140000.0
+19/20,IT1,lazio-rom,SS Lazio,49950000.0,35350000.0
+19/20,IT1,us-lecce,US Lecce,6200000.0,450000000.0
+19/20,IT1,ac-mailand,AC Milan,144080000.0,59230000.0
+19/20,IT1,ssc-neapel,SSC Napoli,210020000.0,48720000.0
+19/20,IT1,parma-calcio-1913,Parma Calcio 1913,23310000.0,18460000.0
+19/20,IT1,as-rom,AS Roma,117400000.0,107180000.0
+19/20,IT1,sampdoria-genua,UC Sampdoria,65250000.0,74590000.0
+19/20,IT1,us-sassuolo,US Sassuolo,66870000.00000001,51950000.0
+19/20,IT1,spal,SPAL,26150000.0,39700000.0
+19/20,IT1,fc-turin,Torino FC,27800000.0,24400000.0
+19/20,IT1,udinese-calcio,Udinese Calcio,13850000.0,60270000.0
+20/21,IT1,atalanta-bergamo,Atalanta BC,61740000.0,78400000.0
+20/21,IT1,benevento-calcio,Benevento Calcio,11600000.0,1000000.0
+20/21,IT1,fc-bologna,Bologna FC 1909,3150000.0,5000000.0
+20/21,IT1,cagliari-calcio,Cagliari Calcio,34180000.0,42660000.0
+20/21,IT1,fc-crotone,FC Crotone,5490000.0,0.0
+20/21,IT1,ac-florenz,ACF Fiorentina,59800000.0,59890000.0
+20/21,IT1,genua-cfc,Genoa CFC,65180000.00000001,71790000.0
+20/21,IT1,hellas-verona,Hellas Verona,18950000.0,5400000.0
+20/21,IT1,inter-mailand,Inter Milan,126500000.0,82950000.0
+20/21,IT1,juventus-turin,Juventus FC,161900000.0,110310000.0
+20/21,IT1,lazio-rom,SS Lazio,42700000.0,7850000.0
+20/21,IT1,ac-mailand,AC Milan,32020000.000000004,51650000.0
+20/21,IT1,ssc-neapel,SSC Napoli,79750000.0,123060000.0
+20/21,IT1,parma-calcio-1913,Parma Calcio 1913,102330000.0,4000000.0
+20/21,IT1,as-rom,AS Roma,75100000.0,49000000.0
+20/21,IT1,sampdoria-genua,UC Sampdoria,17750000.0,12100000.0
+20/21,IT1,us-sassuolo,US Sassuolo,29660000.0,62360000.0
+20/21,IT1,spezia-calcio,Spezia Calcio,5120000.0,1960000.0
+20/21,IT1,fc-turin,Torino FC,46700000.0,27000000.0
+20/21,IT1,udinese-calcio,Udinese Calcio,21500000.0,31550000.0
+21/22,IT1,inter-mailand,Inter Milan,42550000.0,205550000.0
+21/22,IT1,ac-mailand,AC Milan,100360000.0,5120000.0
+21/22,IT1,atalanta-bergamo,Atalanta BC,66200000.0,51920000.0
+21/22,IT1,juventus-turin,Juventus FC,141650000.0,64030000.0
+21/22,IT1,ssc-neapel,SSC Napoli,23800000.0,3200000.0
+21/22,IT1,lazio-rom,SS Lazio,13800000.0,8900000.0
+21/22,IT1,as-rom,AS Roma,132050000.0,17240000.0
+21/22,IT1,us-sassuolo,US Sassuolo,40120000.0,23400000.0
+21/22,IT1,sampdoria-genua,UC Sampdoria,14510000.0,8860000.0
+21/22,IT1,hellas-verona,Hellas Verona,42270000.0,37520000.0
+21/22,IT1,genua-cfc,Genoa CFC,41240000.0,20860000.0
+21/22,IT1,fc-bologna,Bologna FC 1909,32310000.000000004,25000000.0
+21/22,IT1,udinese-calcio,Udinese Calcio,9400000.0,79630000.0
+21/22,IT1,ac-florenz,ACF Fiorentina,65050000.0,114100000.0
+21/22,IT1,spezia-calcio,Spezia Calcio,27790000.0,5200000.0
+21/22,IT1,cagliari-calcio,Cagliari Calcio,16430000.0,7370000.0
+21/22,IT1,fc-turin,Torino FC,13400000.0,16750000.0
+21/22,IT1,fc-empoli,FC Empoli,10500000.0,28200000.0
+21/22,IT1,us-salernitana-1919,US Salernitana 1919,14500000.0,0.0
+21/22,IT1,venezia-fc,Venezia FC,20390000.0,200000000.0
+22/23,IT1,ac-mailand,AC Milan,56290000.0,10880000.0
+22/23,IT1,inter-mailand,Inter Milan,70180000.0,23000000.0
+22/23,IT1,ssc-neapel,SSC Napoli,79300000.0,86230000.0
+22/23,IT1,juventus-turin,Juventus FC,122750000.0,111600000.0
+22/23,IT1,lazio-rom,SS Lazio,41650000.0,42350000.0
+22/23,IT1,as-rom,AS Roma,9400000.0,73320000.0
+22/23,IT1,ac-florenz,ACF Fiorentina,36710000.0,50730000.0
+22/23,IT1,atalanta-bergamo,Atalanta BC,105150000.0,135350000.0
+22/23,IT1,hellas-verona,Hellas Verona,41210000.0,36560000.0
+22/23,IT1,fc-turin,Torino FC,30380000.0,57220000.0
+22/23,IT1,us-sassuolo,US Sassuolo,51280000.0,69330000.0
+22/23,IT1,udinese-calcio,Udinese Calcio,69700000.0,62600000.0
+22/23,IT1,fc-bologna,Bologna FC 1909,33300000.0,42750000.0
+22/23,IT1,fc-empoli,FC Empoli,15200000.0,31710000.0
+22/23,IT1,sampdoria-genua,UC Sampdoria,6650000.0,35600000.0
+22/23,IT1,spezia-calcio,Spezia Calcio,18320000.0,32970000.0
+22/23,IT1,us-salernitana-1919,US Salernitana 1919,48370000.0,23000000.0
+22/23,IT1,us-lecce,US Lecce,6630000.0,3600000.0
+22/23,IT1,us-cremonese,US Cremonese,34150000.0,500000000.0
+22/23,IT1,ac-monza,AC Monza,47150000.0,185000000.0
+18/19,FR1,amiens-sc,Amiens SC,7490000.0,10000000.0
+18/19,FR1,sco-angers,Angers SCO,4450000.0,21000000.0
+18/19,FR1,fc-girondins-bordeaux,FC Girondins Bordeaux,21460000.0,50700000.0
+18/19,FR1,sm-caen,SM Caen,9950000.0,14500000.0
+18/19,FR1,dijon-fco,Dijon FCO,9200000.0,4000000.0
+18/19,FR1,ea-guingamp,EA Guingamp,3500000.0,4000000.0
+18/19,FR1,losc-lille,LOSC Lille,29100000.0,69700000.0
+18/19,FR1,olympique-lyon,Olympique Lyon,46450000.0,90100000.0
+18/19,FR1,olympique-marseille,Olympique Marseille,66000000.0,32850000.0
+18/19,FR1,as-monaco,AS Monaco,145850000.0,367250000.0
+18/19,FR1,montpellier-hsc,Montpellier HSC,10150000.0,25500000.0
+18/19,FR1,fc-nantes,FC Nantes,14350000.0,22200000.0
+18/19,FR1,ogc-nizza,OGC Nice,28000000.0,61700000.0
+18/19,FR1,nimes-olympique,Nîmes Olympique,3150000.0,0.0
+18/19,FR1,fc-paris-saint-germain,Paris Saint-Germain,262000000.0,114000000.0
+18/19,FR1,stade-reims,Stade Reims,15500000.0,11000000.0
+18/19,FR1,fc-stade-rennes,Stade Rennais FC,18000000.0,18500000.0
+18/19,FR1,as-saint-etienne,AS Saint-Étienne,15000000.0,18700000.0
+18/19,FR1,rc-strassburg-alsace,RC Strasbourg Alsace,15750000.0,14000000.0
+18/19,FR1,fc-toulouse,FC Toulouse,18450000.0,35500000.0
+19/20,FR1,amiens-sc,Amiens SC,17850000.0,5440000.0
+19/20,FR1,sco-angers,Angers SCO,10400000.0,34000000.0
+19/20,FR1,fc-girondins-bordeaux,FC Girondins Bordeaux,17000000.0,62250000.0
+19/20,FR1,stade-brest-29,Stade Brestois 29,7500000.0,500000000.0
+19/20,FR1,dijon-fco,Dijon FCO,10470000.0,24500000.0
+19/20,FR1,losc-lille,LOSC Lille,99400000.0,171000000.0
+19/20,FR1,olympique-lyon,Olympique Lyon,126000000.0,160320000.0
+19/20,FR1,olympique-marseille,Olympique Marseille,27000000.0,27250000.0
+19/20,FR1,fc-metz,FC Metz,14350000.0,2600000.0
+19/20,FR1,nimes-olympique,Nîmes Olympique,9850000.0,20500000.0
+19/20,FR1,as-monaco,AS Monaco,200000000.0,83750000.0
+19/20,FR1,montpellier-hsc,Montpellier HSC,20300000.0,40000000.0
+19/20,FR1,fc-nantes,FC Nantes,18750000.0,38500000.0
+19/20,FR1,ogc-nizza,OGC Nice,52200000.0,23110000.0
+19/20,FR1,fc-paris-saint-germain,Paris Saint-Germain,95000000.0,112400000.0
+19/20,FR1,stade-reims,Stade Reims,21700000.0,26600000.0
+19/20,FR1,fc-stade-rennes,Stade Rennais FC,58100000.0,54500000.0
+19/20,FR1,as-saint-etienne,AS Saint-Étienne,13450000.0,45850000.0
+19/20,FR1,rc-strassburg-alsace,RC Strasbourg Alsace,11000000.0,21500000.0
+19/20,FR1,fc-toulouse,FC Toulouse,14000000.0,17150000.0
+20/21,FR1,fc-paris-saint-germain,Paris Saint-Germain,62000000.0,400000000.0
+20/21,FR1,olympique-marseille,Olympique Marseille,17420000.0,33450000.000000004
+20/21,FR1,fc-stade-rennes,Stade Rennais FC,70560000.0,55420000.0
+20/21,FR1,losc-lille,LOSC Lille,40430000.0,106680000.0
+20/21,FR1,ogc-nizza,OGC Nice,29230000.0,20510000.0
+20/21,FR1,stade-reims,Stade Reims,11200000.0,17000000.0
+20/21,FR1,olympique-lyon,Olympique Lyon,36600000.0,50600000.0
+20/21,FR1,montpellier-hsc,Montpellier HSC,13100000.0,0.0
+20/21,FR1,rc-strassburg-alsace,RC Strasbourg Alsace,12000000.0,500000000.0
+20/21,FR1,as-monaco,AS Monaco,52700000.0,13530000.0
+20/21,FR1,sco-angers,Angers SCO,11250000.0,10700000.0
+20/21,FR1,fc-girondins-bordeaux,FC Girondins Bordeaux,0.0,17000000.0
+20/21,FR1,fc-nantes,FC Nantes,5000000.0,2000000.0
+20/21,FR1,stade-brest-29,Stade Brestois 29,16100000.000000002,12000000.0
+20/21,FR1,fc-metz,FC Metz,14700000.0,10000000.0
+20/21,FR1,dijon-fco,Dijon FCO,15800000.0,17000000.0
+20/21,FR1,as-saint-etienne,AS Saint-Étienne,6200000.0,44100000.0
+20/21,FR1,nimes-olympique,Nîmes Olympique,11250000.0,2500000.0
+20/21,FR1,fc-lorient,FC Lorient,26500000.0,6500000.0
+20/21,FR1,rc-lens,RC Lens,19000000.0,0.0
+21/22,FR1,losc-lille,LOSC Lille,25600000.0,79050000.0
+21/22,FR1,fc-paris-saint-germain,Paris Saint-Germain,91000000.0,11000000.0
+21/22,FR1,as-monaco,AS Monaco,45500000.0,34640000.0
+21/22,FR1,olympique-lyon,Olympique Lyon,22920000.0,95600000.0
+21/22,FR1,olympique-marseille,Olympique Marseille,54120000.0,8000000.0
+21/22,FR1,fc-stade-rennes,Stade Rennais FC,81500000.0,49900000.0
+21/22,FR1,rc-lens,RC Lens,20600000.0,18000000.0
+21/22,FR1,montpellier-hsc,Montpellier HSC,200000000.0,25000000.0
+21/22,FR1,ogc-nizza,OGC Nice,55000000.0,26050000.0
+21/22,FR1,fc-metz,FC Metz,2500000.0,23500000.0
+21/22,FR1,as-saint-etienne,AS Saint-Étienne,600000000.0,0.0
+21/22,FR1,fc-girondins-bordeaux,FC Girondins Bordeaux,9800000.0,18850000.0
+21/22,FR1,sco-angers,Angers SCO,1870000.0,18100000.0
+21/22,FR1,stade-reims,Stade Reims,16000000.0,15050000.0
+21/22,FR1,rc-strassburg-alsace,RC Strasbourg Alsace,4500000.0,16000000.0
+21/22,FR1,fc-lorient,FC Lorient,10500000.0,10000000.0
+21/22,FR1,stade-brest-29,Stade Brestois 29,9250000.0,28200000.0
+21/22,FR1,fc-nantes,FC Nantes,7500000.0,15800000.0
+21/22,FR1,es-troyes-ac,ESTAC Troyes,21800000.0,0.0
+21/22,FR1,clermont-foot-63,Clermont Foot 63,0.0,0.0
+22/23,FR1,fc-paris-saint-germain,Paris Saint-Germain,147000000.0,61800000.0
+22/23,FR1,olympique-marseille,Olympique Marseille,121550000.0,37480000.0
+22/23,FR1,as-monaco,AS Monaco,43500000.0,156200000.0
+22/23,FR1,fc-stade-rennes,Stade Rennais FC,84000000.0,95000000.0
+22/23,FR1,ogc-nizza,OGC Nice,83000000.0,49200000.0
+22/23,FR1,rc-strassburg-alsace,RC Strasbourg Alsace,7000000.0,10900000.0
+22/23,FR1,rc-lens,RC Lens,43940000.0,51550000.0
+22/23,FR1,olympique-lyon,Olympique Lyon,32450000.000000004,79850000.0
+22/23,FR1,fc-nantes,FC Nantes,12450000.0,0.0
+22/23,FR1,losc-lille,LOSC Lille,25500000.0,101900000.0
+22/23,FR1,stade-brest-29,Stade Brestois 29,5350000.0,2100000.0
+22/23,FR1,stade-reims,Stade Reims,20400000.0,28950000.0
+22/23,FR1,montpellier-hsc,Montpellier HSC,9500000.0,10000000.0
+22/23,FR1,sco-angers,Angers SCO,6000000.0,39000000.0
+22/23,FR1,es-troyes-ac,ESTAC Troyes,24800000.0,10000000.0
+22/23,FR1,fc-lorient,FC Lorient,30200000.0,39450000.0
+22/23,FR1,clermont-foot-63,Clermont Foot 63,2300000.0,21400000.0
+22/23,FR1,fc-toulouse,FC Toulouse,14700000.0,11000000.0
+22/23,FR1,ac-ajaccio,AC Ajaccio,300000000.0,600000000.0
+22/23,FR1,aj-auxerre,AJ Auxerre,1750000.0,500000000.0
